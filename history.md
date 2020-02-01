@@ -72,7 +72,7 @@ mkdir src\pages
 mkdir src\store
 mkdir src\styles
 mkdir src\utils\api
-type nul > src\index.tsx
+type nul > src\index.js
 type nul > src\declaration.d.ts
 type nul > src\components\App.tsx
 type nul > src\components\styles.scss

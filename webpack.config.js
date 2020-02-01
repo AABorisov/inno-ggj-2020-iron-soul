@@ -10,18 +10,23 @@ module.exports = (env, options) => {
   const devMode = options.mode !== 'production';
 
   return {
-    entry: './src/index.tsx',
+    entry: './src/index.js',
     devServer: {
       historyApiFallback: true,
     },
 
     resolve: {
       // Add '.ts' and '.tsx' as resolvable extensions.
-      extensions: ['.ts', '.tsx', '.js'],
+      extensions: ['.ts', '.tsx', '.js', '.jsx'],
     },
 
     module: {
       rules: [
+        {
+          test: /\.js$/,
+          exclude: /node_modules/,
+          use: [ 'script-loader' ]
+        },
         {
           test: /\.s[ac]ss$/i,
           use: [
