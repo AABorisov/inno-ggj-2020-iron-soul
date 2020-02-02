@@ -133,7 +133,7 @@ export default class CustomScene extends Component {
           <Textwindow
             bgFile='textwindow/bg.png'
             size={24} color={0xffffff} bold={false} speed={80}
-            x={0} y={511} textRect={[160, 70, 520, 70]} yInterval={6}
+            x={0} y={511} textRect={[160, 70, 820, 90]} yInterval={6}
           >
             <Namebox x={160} y={15} />
             <Textbutton text='Save' style={{ fontSize: 16, lineHeight: 16 }} position={[490, 200]} anchor={[0.5, 1]} onPointerTap={e => this.goto(e, 'save')}/>
