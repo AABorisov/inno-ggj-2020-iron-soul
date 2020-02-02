@@ -31,7 +31,7 @@ const render = (false)
     await core.init(1280, 720, {
       fitWindow: true,
       assetsPath: 'assets',
-      tryWebp: process.env.NODE_ENV === 'production'
+      tryWebp: false
     });
     core.installPlugin(Fullscreen);
     core.installPlugin(History);
