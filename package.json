@@ -32,7 +32,7 @@
     "react-router": "^2.8.1",
     "screenfull": "^3.0.2",
     "webpack": "^2.2.0",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": "^3.1.11"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
