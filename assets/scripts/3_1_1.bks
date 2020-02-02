@@ -1,7 +1,5 @@
-// BUNKER
-[bg file='common/бунк.jpg']
+[bg file='common/плох.jpg']
 [sound channel='bgm' src='assets/bgm/x-reaction sun.mp3' loop=true preload=true autoplay=true mute=false]
 [p]
 [p]
-
 [route push path='/title']

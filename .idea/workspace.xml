@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233daa30-aea7-46f1-bda9-3705de5d6a8d" name="Default Changelist" comment="bugfix">
+    <list default="true" id="233daa30-aea7-46f1-bda9-3705de5d6a8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/common/плох.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/3_1_1.bks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/9_1.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/9_1.bks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/11_3.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/11_3.bks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/11_4.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/11_4.bks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/13_2.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/13_2.bks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/BUNKER.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/BUNKER.bks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +117,7 @@
       <workItem from="1580565217068" duration="1735000" />
       <workItem from="1580589673982" duration="2973000" />
       <workItem from="1580606041969" duration="5254000" />
-      <workItem from="1580611714190" duration="22805000" />
+      <workItem from="1580611714190" duration="23788000" />
     </task>
     <task id="LOCAL-00001" summary="travis &amp; heroku">
       <created>1580508525437</created>
@@ -205,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580639497509</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="bugfix">
+      <created>1580639639569</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580639639569</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,10 +249,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580608377127" />
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580639500489">
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580639637894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580639500489" />
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580639637894" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580508521177" />
     <state width="1345" height="275" key="GridCell.Tab.0.bottom" timestamp="1580639446489">
       <screen x="0" y="0" width="1366" height="728" />
@@ -262,15 +274,15 @@
     </state>
     <state width="1345" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580639446489" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580508320604" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580639503304">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580639641708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580639503304" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580639641708" />
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580508632109" />
-    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1580639590563">
+    <state x="112" y="0" width="1219" height="728" key="find.popup" timestamp="1580640618148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580639590563" />
+    <state x="112" y="0" width="1219" height="728" key="find.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580640618148" />
     <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580508140397" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1580627996777">
       <screen x="0" y="0" width="1366" height="728" />
