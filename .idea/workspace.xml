@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="233daa30-aea7-46f1-bda9-3705de5d6a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/scripts/11_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/11_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/11_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/11_4.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/12_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/13_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/13_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/14-1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/15_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/15_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/15_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/15_4.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_10_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_11_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_19_0.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_19_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_19_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_20_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_20_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_20_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_20_4.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_21_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_22_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_24_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_24_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_25_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_26_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_26_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_2_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_30_0.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_30_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_30_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_30_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_5_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_5_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_6_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_6_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_7_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_8_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_8_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/2_9_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/3_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/3_5.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/6_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/7_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/7_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/7_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/7_4.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/8_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/8_2.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/8_3.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/9_1.bks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/BUNKER.bks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/1.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/1.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/2_2.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/2_2.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/3_1.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/3_1.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/3_2.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/3_2.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/story.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/story.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/BUNKER.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/BUNKER.bks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +110,7 @@
       <workItem from="1580565217068" duration="1735000" />
       <workItem from="1580589673982" duration="2973000" />
       <workItem from="1580606041969" duration="5254000" />
-      <workItem from="1580611714190" duration="20062000" />
+      <workItem from="1580611714190" duration="20443000" />
     </task>
     <task id="LOCAL-00001" summary="travis &amp; heroku">
       <created>1580508525437</created>
@@ -232,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580629269845</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="all story">
+      <created>1580636732613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580636732613</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +199,8 @@
     <MESSAGE value="story 1" />
     <MESSAGE value="background black" />
     <MESSAGE value="prod" />
-    <option name="LAST_COMMIT_MESSAGE" value="prod" />
+    <MESSAGE value="all story" />
+    <option name="LAST_COMMIT_MESSAGE" value="all story" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580619974730">
@@ -260,10 +211,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580608377127" />
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580629267479">
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580636731337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580629267479" />
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580636731337" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580508521177" />
     <state width="1345" height="275" key="GridCell.Tab.0.bottom" timestamp="1580635982278">
       <screen x="0" y="0" width="1366" height="728" />
@@ -285,10 +236,10 @@
     </state>
     <state width="1345" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580635982278" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580508320604" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580629285320">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580636737056">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580629285320" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580636737056" />
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580508632109" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1580636538607">
       <screen x="0" y="0" width="1366" height="728" />
