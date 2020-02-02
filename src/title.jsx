@@ -15,7 +15,7 @@ export default class Title extends Component {
   }
   render() {
     return (
-      <Image src='common/bg.png'>
+      <Image src='common/bg-entrance.jpg'>
         <Button src={'title/start.png'} position={[211, 524]} onClick={() => this.jumpTo('/story')} onTap={() => this.jumpTo('/story')}/>
         <Button src={'title/load.png'} position={[447, 524]} onClick={() => this.jumpTo('/title/load')} onTap={() => this.jumpTo('/title/load')}/>
         <Button src={'title/option.png'} position={[683, 524]} onClick={() => this.jumpTo('/title/option')} onTap={() => this.jumpTo('/title/option')}/>
