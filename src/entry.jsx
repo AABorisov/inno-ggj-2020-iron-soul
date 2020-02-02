@@ -4,7 +4,7 @@ import { AppContainer } from 'react-hot-loader';
 import Fullscreen from './extensions/fullscreen';
 import History from './extensions/history';
 
-const render = (process.env.NODE_ENV === 'development')
+const render = (false)
 ? Component =>
   core.render(
     <AppContainer>
