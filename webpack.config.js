@@ -1,92 +1,42 @@
 const path = require('path');
-const HtmlWebPackPlugin = require('html-webpack-plugin');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const webpack = require('webpack');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
-
-
-module.exports = (env, options) => {
-  const devMode = options.mode !== 'production';
-
-  return {
-    entry: './src/index.js',
-    devServer: {
-      historyApiFallback: true,
-    },
-
-    resolve: {
-      // Add '.ts' and '.tsx' as resolvable extensions.
-      extensions: ['.ts', '.tsx', '.js', '.jsx'],
-    },
-
-    module: {
-      rules: [
-        {
-          test: /\.js$/,
-          exclude: /node_modules/,
-          use: [ 'script-loader' ]
-        },
-        {
-          test: /\.s[ac]ss$/i,
-          use: [
-            devMode ? 'style-loader' : MiniCssExtractPlugin.loader,
-            {
-              loader: 'css-loader',
-              options: {
-                modules: true,
-                importLoaders: 1,
-              },
-            },
-            'sass-loader',
-          ],
-        },
-        {
-          test: /\.ts(x?)$/,
-          exclude: /node_modules/,
-          use: [
-            {
-              loader: 'ts-loader',
-            },
-          ],
-        },
-        {
-          test: /\.(png|svg|jpg|gif)$/,
-          use: [
-            {
-              loader: 'file-loader',
-              options: {
-                name: 'assets/[name].[ext]',
-                // outputPath: 'assets/',
-              },
-            }
-          ]
-        }
-      ],
-    },
-    plugins: [
-      new CleanWebpackPlugin(),
-      new CopyWebpackPlugin([{
-        from: 'public/assets',
-        to: 'public/assets'
-      }, {
-        from: 'public/data',
-        to: 'public/data'
-      }]),
-      new MiniCssExtractPlugin({
-        filename: '[name].css',
-        chunkFilename: '[id].css',
-        ignoreOrder: false,
-      }),
-      new HtmlWebPackPlugin({
-        template: './public/index.html',
-        filename: './index.html',
-      }),
+module.exports = {
+  entry: './src/entry.jsx',
+  output: {
+    path: path.resolve(__dirname, 'dist/libs'),
+    publicPath: '/dist/libs',
+    filename: 'index.min.js',
+  },
+  resolve: {
+    extensions: ['.js', '.jsx'],
+    modules: ['src', 'node_modules'],
+  },
+  externals: {
+    'avg-core': 'AVG',
+  },
+  module: {
+    rules: [
+      { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' },
+      { test: /\.jsx$/, exclude: /node_modules/, loader: 'babel-loader' },
     ],
-    output: {
-      path: path.resolve('dist'),
-      filename: 'bundle.js',
-      publicPath: '/',
-    },
-  };
+  },
+  plugins: [
+    new webpack.DefinePlugin({
+      "process.env": { 
+        NODE_ENV: JSON.stringify("production"),
+      }
+    }),
+    new webpack.optimize.UglifyJsPlugin({
+      compress: {
+        warnings: false,
+      },
+      comments: false,
+    }),
+    new CopyWebpackPlugin([
+      { from: 'node_modules/pixi.js/dist/pixi.min.js', to: 'pixi.min.js' },
+      { from: 'node_modules/avg-core/dist/avg.min.js', to: 'avg.min.js' },
+    ])
+  ]
 };

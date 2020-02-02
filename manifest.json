@@ -1,0 +1,42 @@
+{
+  "name": "Iron Soul",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#000",
+  "background_color": "#eee",
+  "orientation": "landscape",
+  "description": "A New Advanture Game.",
+  "author": "Team: Iron soul",
+  "keywords": "",
+  "version_code": 1,
+  "version_name": "1.0.0",
+  "package_id": "org.avgjs.template",
+  "android_keep_screen_on": true,
+  "android_permissions": [
+    "ACCESS_NETWORK_STATE",
+    "ACCESS_WIFI_STATE",
+    "INTERNET"
+  ],
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
