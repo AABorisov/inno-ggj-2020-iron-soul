@@ -84,6 +84,8 @@ export default class Selection extends Component {
       selectionPos = [[360, 150], [360, 250]];
     } else if (length === 3) {
       selectionPos = [[360, 80], [360, 200], [360, 320]];
+    } else if (length === 4) {
+      selectionPos = [[360, 80], [360, 180], [360, 280], [360, 380]];
     }
 
     return (
