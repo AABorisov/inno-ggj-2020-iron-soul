@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233daa30-aea7-46f1-bda9-3705de5d6a8d" name="Default Changelist" comment="">
+    <list default="true" id="233daa30-aea7-46f1-bda9-3705de5d6a8d" name="Default Changelist" comment="Text fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/1.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/1.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/100_4.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_4.bks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/100_5.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_5.bks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580853123406</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Text fix">
+      <created>1580853823641</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580853823641</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +290,8 @@
     <MESSAGE value="bugfix" />
     <MESSAGE value="nothing" />
     <MESSAGE value="revert" />
-    <option name="LAST_COMMIT_MESSAGE" value="revert" />
+    <MESSAGE value="Text fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Text fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580619974730">
@@ -296,10 +302,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580608377127" />
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580853122233">
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580853914292">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853122233" />
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853914292" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580508521177" />
     <state width="1345" height="275" key="GridCell.Tab.0.bottom" timestamp="1580853513931">
       <screen x="0" y="0" width="1366" height="728" />
