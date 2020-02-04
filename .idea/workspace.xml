@@ -4,11 +4,8 @@
     <list default="true" id="233daa30-aea7-46f1-bda9-3705de5d6a8d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/1.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/1.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/100_1.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_1.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/100_2.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_2.bks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/100_4.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_4.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/100_6.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_6.bks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Selection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Selection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/100_5.bks" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/100_5.bks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +19,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1XB7ShNv2GDUKmxa4XZD23HwSmL" />
   <component name="ProjectLevelVcsManager">
@@ -94,9 +90,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +123,7 @@
       <workItem from="1580565217068" duration="1735000" />
       <workItem from="1580589673982" duration="2973000" />
       <workItem from="1580606041969" duration="5254000" />
-      <workItem from="1580611714190" duration="28526000" />
+      <workItem from="1580611714190" duration="23788000" />
     </task>
     <task id="LOCAL-00001" summary="travis &amp; heroku">
       <created>1580508525437</created>
@@ -226,14 +223,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580639639569</updated>
     </task>
-    <task id="LOCAL-00015" summary="bugfix">
-      <created>1580640715790</created>
+    <task id="LOCAL-00015" summary="revert">
+      <created>1580852850759</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1580640715790</updated>
+      <updated>1580852850759</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="nothing">
+      <created>1580852959983</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580852959983</updated>
+    </task>
+    <task id="LOCAL-00017" summary="nothing">
+      <created>1580853063954</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580853063954</updated>
+    </task>
+    <task id="LOCAL-00018" summary="revert">
+      <created>1580853123406</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580853123406</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +283,9 @@
     <MESSAGE value="bunker" />
     <MESSAGE value="next" />
     <MESSAGE value="bugfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugfix" />
+    <MESSAGE value="nothing" />
+    <MESSAGE value="revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580619974730">
@@ -276,53 +296,53 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580608377127" />
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580640714403">
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2" timestamp="1580853122233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580640714403" />
+    <state x="308" y="0" width="930" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853122233" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580508521177" />
-    <state width="1345" height="275" key="GridCell.Tab.0.bottom" timestamp="1580850504065">
+    <state width="1345" height="275" key="GridCell.Tab.0.bottom" timestamp="1580853513931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580850504065" />
+    <state width="1345" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853513931" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580508320605" />
-    <state width="1345" height="275" key="GridCell.Tab.0.center" timestamp="1580850504064">
+    <state width="1345" height="275" key="GridCell.Tab.0.center" timestamp="1580853513930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="275" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580850504064" />
+    <state width="1345" height="275" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853513930" />
     <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580508320604" />
-    <state width="1345" height="275" key="GridCell.Tab.0.left" timestamp="1580850504064">
+    <state width="1345" height="275" key="GridCell.Tab.0.left" timestamp="1580853513930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="275" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580850504064" />
+    <state width="1345" height="275" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853513930" />
     <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580508320604" />
-    <state width="1345" height="275" key="GridCell.Tab.0.right" timestamp="1580850504064">
+    <state width="1345" height="275" key="GridCell.Tab.0.right" timestamp="1580853513930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580850504064" />
+    <state width="1345" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853513930" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580508320604" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580640720706">
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1580853453309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580640720706" />
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853453309" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1580853126876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853126876" />
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580508632109" />
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580849232778">
+    <state x="112" y="0" width="1219" height="728" key="find.popup" timestamp="1580640618148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580849232778" />
-    <state x="112" y="0" width="1219" height="728" key="find.popup" timestamp="1580851531329">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="112" y="0" width="1219" height="728" key="find.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580851531329" />
+    <state x="112" y="0" width="1219" height="728" key="find.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580640618148" />
     <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580508140397" />
-    <state x="368" y="156" key="git4idea.merge.GitPullDialog" timestamp="1580849297112">
+    <state x="450" y="78" key="git4idea.branch.GitSmartOperationDialog" timestamp="1580853432067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580849297112" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1580851223761">
+    <state x="450" y="78" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580853432067" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580627996777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580851223761" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580627996777" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580624827118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
